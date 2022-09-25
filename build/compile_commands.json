@@ -1,0 +1,102 @@
+[
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/AIView.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/AIView.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/AIView.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/ActiveActor.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/ActiveActor.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/ActiveActor.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/ActiveProcess.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/ActiveProcess.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/ActiveProcess.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/FlyingEnemyActor.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/FlyingEnemyActor.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/FlyingEnemyActor.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/InactiveActor.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/InactiveActor.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/InactiveActor.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/InactiveProcess.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/InactiveProcess.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/InactiveProcess.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/LegActor.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/LegActor.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/LegActor.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/LobbingEnemyActor.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/LobbingEnemyActor.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/LobbingEnemyActor.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/PickupActor.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/PickupActor.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/PickupActor.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/PlatformActor.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/PlatformActor.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/PlatformActor.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/PlayerActor.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/PlayerActor.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/PlayerActor.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/PlayerProcess.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/PlayerProcess.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/PlayerProcess.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/PlayerView.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/PlayerView.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/PlayerView.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/ProcessManager.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/ProcessManager.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/ProcessManager.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/ProjectileActor.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/ProjectileActor.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/ProjectileActor.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/SpikeActor.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/SpikeActor.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/SpikeActor.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/TyrantulaActor.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/TyrantulaActor.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/TyrantulaActor.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/WalkingEnemyActor.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/WalkingEnemyActor.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/WalkingEnemyActor.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/WM-GameDesign_core.dir/src/tinyxml2.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/src/tinyxml2.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/src/tinyxml2.cpp"
+},
+{
+  "directory": "/Users/wangqingjiu/Desktop/WM-GameDesign/build",
+  "command": "/usr/bin/clang++  -I/Users/wangqingjiu/Desktop/WM-GameDesign/include -isystem /opt/homebrew/include/SDL2  -std=c++11 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/flipout.dir/bin/flipout.cpp.o -c /Users/wangqingjiu/Desktop/WM-GameDesign/bin/flipout.cpp",
+  "file": "/Users/wangqingjiu/Desktop/WM-GameDesign/bin/flipout.cpp"
+}
+]

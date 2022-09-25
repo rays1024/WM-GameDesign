@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <platform>
+    <platform1>
+      <xpos>0</xpos>
+      <ypos>688</ypos>
+      <width>18000</width>
+      <height>80</height>
+    </platform1>
+
+    <platform2>
+      <xpos>0</xpos>
+      <ypos>0</ypos>
+      <width>18000</width>
+      <height>80</height>
+    </platform2>
+
+    <barrier-left>
+      <xpos>0</xpos>
+      <ypos>0</ypos>
+      <width>1</width>
+      <height>1024</height>
+    </barrier-left>
+
+    <barrier-right>
+      <xpos>18000</xpos>
+      <ypos>0</ypos>
+      <width>1</width>
+      <height>1024</height>
+    </barrier-right>
+  </platform>
+
+  <spike>
+    
+  </spike>
+
+  <walkingEnemy>
+    
+  </walkingEnemy>
+
+  <flyingEnemy>
+    
+  </flyingEnemy>
+
+  <lobbingEnemy>
+    
+  </lobbingEnemy>
+
+  <leg>
+
+    <leg1>
+      <xpos>200</xpos>
+      <ypos>384</ypos>
+      <width>20</width>
+      <height>284</height>
+      <angle>45</angle>
+      <start>-1</start>
+    </leg1>
+    <leg2>
+      <xpos>200</xpos>
+      <ypos>384</ypos>
+      <width>20</width>
+      <height>184</height>
+      <angle>15</angle>
+      <start>1</start>
+    </leg2>
+    <leg3>
+      <xpos>200</xpos>
+      <ypos>384</ypos>
+      <width>20</width>
+      <height>184</height>
+      <angle>-15</angle>
+      <start>-1</start>
+    </leg3>
+    <leg4>
+      <xpos>200</xpos>
+      <ypos>384</ypos>
+      <width>20</width>
+      <height>284</height>
+      <angle>-45</angle>
+      <start>1</start>
+    </leg4>
+    <leg5>
+      <xpos>200</xpos>
+      <ypos>384</ypos>
+      <width>20</width>
+      <height>284</height>
+      <angle>135</angle>
+      <start>-1</start>
+    </leg5>
+    <leg6>
+      <xpos>200</xpos>
+      <ypos>384</ypos>
+      <width>20</width>
+      <height>184</height>
+      <angle>165</angle>
+      <start>1</start>
+    </leg6>
+    <leg7>
+      <xpos>200</xpos>
+      <ypos>384</ypos>
+      <width>20</width>
+      <height>184</height>
+      <angle>-165</angle>
+      <start>-1</start>
+    </leg7>
+    <leg8>
+      <xpos>200</xpos>
+      <ypos>384</ypos>
+      <width>20</width>
+      <height>284</height>
+      <angle>-135</angle>
+      <start>1</start>
+    </leg8>
+    
+
+  </leg>
+
+  <tyrantula>
+    <tyrantula1>
+      <xpos>110</xpos>
+      <ypos>284</ypos>
+      <width>200</width>
+      <height>200</height>
+    </tyrantula1>
+  </tyrantula>
+
+  <levelPickup>
+  
+    <levelEnd>
+      <xpos>5260</xpos>
+      <ypos>-100</ypos>
+      <width>10</width>
+      <height>10</height>
+    </levelEnd>
+    
+  </levelPickup>
+
+  <healthPickup>
+    <health1>
+      <xpos>4000</xpos>
+      <ypos>85</ypos>
+      <width>10</width>
+      <height>10</height>
+      <flipped>1</flipped>
+    </health1>
+    <health2>
+      <xpos>4000</xpos>
+      <ypos>650</ypos>
+      <width>10</width>
+      <height>10</height>
+      <flipped>0</flipped>
+    </health2>
+    <health3>
+      <xpos>8000</xpos>
+      <ypos>85</ypos>
+      <width>10</width>
+      <height>10</height>
+      <flipped>1</flipped>
+    </health3>
+    <health4>
+      <xpos>8000</xpos>
+      <ypos>650</ypos>
+      <width>10</width>
+      <height>10</height>
+      <flipped>0</flipped>
+    </health4>
+    <health5>
+      <xpos>10000</xpos>
+      <ypos>85</ypos>
+      <width>10</width>
+      <height>10</height>
+      <flipped>1</flipped>
+    </health5>
+    <health6>
+      <xpos>10000</xpos>
+      <ypos>650</ypos>
+      <width>10</width>
+      <height>10</height>
+      <flipped>0</flipped>
+    </health6>
+    <health7>
+      <xpos>12000</xpos>
+      <ypos>85</ypos>
+      <width>10</width>
+      <height>10</height>
+      <flipped>1</flipped>
+    </health7>
+    <health8>
+      <xpos>12000</xpos>
+      <ypos>650</ypos>
+      <width>10</width>
+      <height>10</height>
+      <flipped>0</flipped>
+    </health8>
+
+    <health9>
+      <xpos>6000</xpos>
+      <ypos>85</ypos>
+      <width>10</width>
+      <height>10</height>
+      <flipped>1</flipped>
+    </health9>
+    <health10>
+      <xpos>6000</xpos>
+      <ypos>650</ypos>
+      <width>10</width>
+      <height>10</height>
+      <flipped>0</flipped>
+    </health10>
+
+    <health11>
+      <xpos>14000</xpos>
+      <ypos>85</ypos>
+      <width>10</width>
+      <height>10</height>
+      <flipped>1</flipped>
+    </health11>
+    <health12>
+      <xpos>14000</xpos>
+      <ypos>650</ypos>
+      <width>10</width>
+      <height>10</height>
+      <flipped>0</flipped>
+    </health12>
+
+  </healthPickup>
+
+</root>

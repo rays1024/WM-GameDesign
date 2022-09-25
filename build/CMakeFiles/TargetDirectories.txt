@@ -1,0 +1,4 @@
+/Users/wangqingjiu/Desktop/WM-GameDesign/build/CMakeFiles/WM-GameDesign_core.dir
+/Users/wangqingjiu/Desktop/WM-GameDesign/build/CMakeFiles/flipout.dir
+/Users/wangqingjiu/Desktop/WM-GameDesign/build/CMakeFiles/edit_cache.dir
+/Users/wangqingjiu/Desktop/WM-GameDesign/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <platform>
+    <platform1>
+      <xpos>0</xpos>
+      <ypos>688</ypos>
+      <width>320</width>
+      <height>80</height>
+    </platform1>
+
+    <platform2>
+      <xpos>400</xpos>
+      <ypos>100</ypos>
+      <width>400</width>
+      <height>80</height>
+    </platform2>
+
+    <platform3>
+      <xpos>720</xpos>
+      <ypos>600</ypos>
+      <width>320</width>
+      <height>80</height>
+    </platform3>
+
+    <platform4>
+      <xpos>960</xpos>
+      <ypos>0</ypos>
+      <width>560</width>
+      <height>80</height>
+    </platform4>
+
+    <platform5>
+      <xpos>1200</xpos>
+      <ypos>80</ypos>
+      <width>240</width>
+      <height>80</height>
+    </platform5>
+
+    <platform6>
+      <xpos>1280</xpos>
+      <ypos>160</ypos>
+      <width>160</width>
+      <height>80</height>
+    </platform6>
+
+    <platform7>
+      <xpos>1760</xpos>
+      <ypos>560</ypos>
+      <width>1200</width>
+      <height>80</height>
+    </platform7>
+
+    <platform8>
+      <xpos>2200</xpos>
+      <ypos>0</ypos>
+      <width>400</width>
+      <height>80</height>
+    </platform8>
+
+    <platform9>
+      <xpos>3280</xpos>
+      <ypos>560</ypos>
+      <width>400</width>
+      <height>80</height>
+    </platform9>
+
+    <platform10>
+      <xpos>3680</xpos>
+      <ypos>480</ypos>
+      <width>400</width>
+      <height>80</height>
+    </platform10>
+
+    <platform11>
+      <xpos>4080</xpos>
+      <ypos>400</ypos>
+      <width>400</width>
+      <height>80</height>
+    </platform11>
+
+    <platform12>
+      <xpos>4480</xpos>
+      <ypos>480</ypos>
+      <width>800</width>
+      <height>80</height>
+    </platform12>
+
+    <barrier-left>
+      <xpos>0</xpos>
+      <ypos>0</ypos>
+      <width>1</width>
+      <height>1024</height>
+    </barrier-left>
+
+    <barrier-right>
+      <xpos>5280</xpos>
+      <ypos>0</ypos>
+      <width>1</width>
+      <height>1024</height>
+    </barrier-right>
+  </platform>
+
+
+  <spike>
+    <spike1>
+      <xpos>720</xpos>
+      <ypos>180</ypos>
+      <width>80</width>
+      <height>80</height>
+      <direction>0</direction>
+    </spike1>
+
+    <spike2>
+      <xpos>960</xpos>
+      <ypos>520</ypos>
+      <width>80</width>
+      <height>80</height>
+      <direction>1</direction>
+    </spike2>
+
+    <spike3>
+      <xpos>1120</xpos>
+      <ypos>80</ypos>
+      <width>80</width>
+      <height>80</height>
+      <direction>0</direction>
+    </spike3>
+
+    <spike4>
+      <xpos>1440</xpos>
+      <ypos>80</ypos>
+      <width>80</width>
+      <height>80</height>
+      <direction>0</direction>
+    </spike4>
+
+    <spike5>
+      <xpos>1200</xpos>
+      <ypos>160</ypos>
+      <width>80</width>
+      <height>80</height>
+      <direction>0</direction>
+    </spike5>
+
+    <spike6>
+      <xpos>1760</xpos>
+      <ypos>640</ypos>
+      <width>1200</width>
+      <height>80</height>
+      <direction>0</direction>
+    </spike6>
+
+    <spike7>
+      <xpos>2280</xpos>
+      <ypos>480</ypos>
+      <width>240</width>
+      <height>80</height>
+      <direction>1</direction>
+    </spike7>
+    </spike>
+
+  <walkingEnemy>
+  
+    <walking1>
+      <xpos>800</xpos>
+      <ypos>400</ypos>
+      <width>80</width>
+      <height>80</height>
+      <xborder1>750</xborder1>
+      <xborder2>850</xborder2>
+    </walking1>
+
+    <walking2>
+      <xpos>1880</xpos>
+      <ypos>480</ypos>
+      <width>80</width>
+      <height>80</height>
+      <xborder1>1715</xborder1>
+      <xborder2>2170</xborder2>
+    </walking2>
+
+    <walking3>
+      <xpos>2700</xpos>
+      <ypos>480</ypos>
+      <width>80</width>
+      <height>80</height>
+      <xborder1>2530</xborder1>
+      <xborder2>2885</xborder2>
+    </walking3>
+
+    <walking4>
+      <xpos>3420</xpos>
+      <ypos>480</ypos>
+      <width>80</width>
+      <height>80</height>
+      <xborder1>3265</xborder1>
+      <xborder2>3580</xborder2>
+    </walking4>
+
+    <walking5>
+      <xpos>3870</xpos>
+      <ypos>400</ypos>
+      <width>80</width>
+      <height>80</height>
+      <xborder1>3650</xborder1>
+      <xborder2>3950</xborder2>
+    </walking5>
+
+    <walking6>
+      <xpos>4700</xpos>
+      <ypos>400</ypos>
+      <width>80</width>
+      <height>80</height>
+      <xborder1>4550</xborder1>
+      <xborder2>5000</xborder2>
+    </walking6>
+    
+  </walkingEnemy>
+
+  <flyingEnemy>
+  
+    <flying1>
+      <xpos>350</xpos>
+      <ypos>200</ypos>
+      <width>80</width>
+      <height>80</height>
+    </flying1>
+
+    <flying2>
+      <xpos>2637</xpos>
+      <ypos>200</ypos>
+      <width>80</width>
+      <height>80</height>
+    </flying2>
+
+    <flying3>
+      <xpos>2010</xpos>
+      <ypos>200</ypos>
+      <width>80</width>
+      <height>80</height>
+    </flying3>
+    
+  </flyingEnemy>
+
+  <lobbingEnemy>
+  
+    <lobbing1>
+      <xpos>4080</xpos>
+      <ypos>300</ypos>
+      <width>80</width>
+      <height>80</height>
+    </lobbing1>
+    
+    <lobbing2>
+      <xpos>5050</xpos>
+      <ypos>400</ypos>
+      <width>80</width>
+      <height>80</height>
+    </lobbing2>
+
+
+  </lobbingEnemy>
+
+  <leg>
+
+  </leg>
+
+  <tyrantula>
+  </tyrantula>
+
+  <levelPickup>
+  
+    <levelEnd>
+      <xpos>5160</xpos>
+      <ypos>447</ypos>
+      <width>10</width>
+      <height>10</height>
+    </levelEnd>
+    
+  </levelPickup>
+
+  <healthPickup>
+  
+    <health1>
+      <xpos>3840</xpos>
+      <ypos>445</ypos>
+      <width>10</width>
+      <height>10</height>
+      <flipped>0</flipped>
+    </health1>
+
+    <health2>
+      <xpos>2345</xpos>
+      <ypos>80</ypos>
+      <width>10</width>
+      <height>10</height>
+      <flipped>1</flipped>
+    </health2>
+
+    <health3>
+      <xpos>3445</xpos>
+      <ypos>640</ypos>
+      <width>10</width>
+      <height>10</height>
+      <flipped>1</flipped>
+    </health3>
+    
+  </healthPickup>
+
+</root>
